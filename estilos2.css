@@ -1,0 +1,39 @@
+@media (max-width: 480px){
+  .blabla{
+    padding: 20px;
+  }
+  .blabla img{
+    max-width: 200px;
+  }
+  .blabla nav{
+    display: none
+  }
+  .bot1{
+    display: none;
+  }
+  .menu{
+    display: flex;
+    color: white;
+    text-decoration: none;
+  }
+  .blabla i{
+    font-size: 60px;
+  }
+  .bleble{
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  .bleble img{
+    max-width: 400px;
+    padding-top: 90px;
+  }
+  .dog{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    max-width: 100%;
+  }
+  .dogg{
+    max-width: 400px;
+  }
+}
